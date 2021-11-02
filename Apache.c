@@ -1,7 +1,6 @@
 /*
 * CS 656 / Fall 2019 / Term Project
-* Group: M3 / Leader: Lee (lrz2)
-* Group Members: Qiong (qq24), Sanyamee (smp239), Kevin (kh388), Jessica (jlc39)
+* Group: M3
 *
 */
 
